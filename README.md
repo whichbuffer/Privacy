@@ -1,9 +1,9 @@
 <p align="center"><img src="https://e3.365dm.com/18/02/1096x616/skynews-julian-assange-wikileaks_4230131.jpg?20180213141718" alt="bDialog" height="200px"></p>
 
-# Privacy Respecting [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+# Privacy Respecting
 > Curated List of Privacy Respecting Services and Software
 
-*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
+
 
 ##### Contents
 - [What?](#what)
