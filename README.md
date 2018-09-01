@@ -184,8 +184,4 @@ The list is separated into topics and each service or software stated gives supp
 ## Contributing
 See [contribution guidelines](CONTRIBUTING.md/#readme).
 
-## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
