@@ -1,4 +1,4 @@
-<p align="center"><img src="https://e3.365dm.com/18/02/1096x616/skynews-julian-assange-wikileaks_4230131.jpg?20180213141718" alt="bDialog" height="500px"></p>
+<p align="center"><img src="https://e3.365dm.com/18/02/1096x616/skynews-julian-assange-wikileaks_4230131.jpg?20180213141718" alt="bDialog" height="300px"></p>
 
 # Privacy
 > Curated List of Privacy Respecting Services and Software
