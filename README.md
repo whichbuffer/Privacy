@@ -181,7 +181,6 @@ The list is separated into topics and each service or software stated gives supp
 - [Secured.fyi](https://secured.fyi/) - A ranking of paid and free services based on security and privacy attributes.
 - [That one privacy site](https://thatoneprivacysite.net/) - A detailed privacy-oriented comparison between VPN and E-mail providers.
 
-## Contributing
-See [contribution guidelines](CONTRIBUTING.md/#readme).
+
 
 
